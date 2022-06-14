@@ -1,2 +1,2 @@
 # DWAVE_Projects
-Working on DWAVE 
+Projects done with the help of D-Wave's ocean
